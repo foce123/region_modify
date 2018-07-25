@@ -1,6 +1,5 @@
 # region_modify
-'''
-python local_trans.py -h
+python local_trans.py -h   
 usage: local_trans.py [-h] [-v] [-l] [-a msgid msgstr] [-d msgid]
                       [-u msgid msgstr]
 
@@ -14,4 +13,3 @@ optional arguments:
                         delete area information
   -u msgid msgstr, --update msgid msgstr
                         update area information
-'''

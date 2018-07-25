@@ -15,6 +15,6 @@ optional arguments:
   -u msgid msgstr, --update msgid msgstr
                         update area information
 </pre>
-path:/openstack-dashboard/openstack_dashboard/datacenter_locale/zh_CN/LC_MESSAGES/django.po
-path:/openstack-dashboard/openstack_dashboard/datacenter_locale/en/LC_MESSAGES/django.po
-change by yourself in this script
+path:/openstack-dashboard/openstack_dashboard/datacenter_locale/zh_CN/LC_MESSAGES/django.po<br>
+path:/openstack-dashboard/openstack_dashboard/datacenter_locale/en/LC_MESSAGES/django.po<br>
+change by yourself in this script<br>
